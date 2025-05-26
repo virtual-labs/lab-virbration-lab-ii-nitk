@@ -1,141 +1,106 @@
 {
   "broadArea": {
-    "name": "Computer Science and Engineering",
-    "link": "http://vlab.co.in/broad-area-computer-science-and-engineering",
-    "code": "CSE"
+    "name": "Mechanical Engineering",
+    "link": "https://www.vlab.co.in/broad-area-mechanical-engineering",
+    "code": "MECH"
   },
-  "lab": "Data Structures – 1",
-  "lab_display_name": "Data Structures – 1",
-  "phase": 3,
-  "collegeName": "IIITH",
-  "baseUrl": "ds1-iiith.vlabs.ac.in",
-  "introduction": "Welcome to the Data Structures Lab - I developed at IIIT Hyderabad. Data Structures (also called Data Structures and Algorithms in some places) is a core course in all computer science undergraduate curricula. The course is the basis for understanding several data structures and also algorithms that operate on them. The course forms the foundation for almost all computer science subjects: compilers, operating systems, databases, AI and software engineering. The course comes with a lab in most universities in India. The associated lab in university curricula focuses on implementation of algorithms operating on the data structures, i.e., coding programs on the data structures and algorithms. Students embarking on the task of writing programs, however, often have difficulty visualizing how operations and algorithms modify a data structure. As a result students are often unable to understand or show the execution of an algorithm on a given data structure and write code effectively. Furthermore, students are unable to visually reason about the time and space complexities associated with an algorithm running on a data structure. The interactive experiments in this lab will give the students an opportunity for learning and better understanding of using algorithms.",
-  "experiment-sections": [
-    {
-      "sect-name": "Sorting",
-      "experiments": [
-        {
-          "name": "Bubble Sort",
-          "short-name": "bubble-sort",
-          "repo": "https://github.com/virtual-labs/exp-bubble-sort-iiith.git",
-          "tag": "v1.0.9",
-          "deploy": true
-        },
-        {
-          "name": "Merge Sort",
-          "short-name": "merge-sort",
-          "repo": "https://github.com/virtual-labs/exp-merge-sort-iiith.git",
-          "tag": "v1.0.8",
-          "deploy": true
-        },
-        {
-          "name": "Heap Sort",
-          "short-name": "heap-sort",
-          "repo": "https://github.com/virtual-labs/exp-heap-sort-iiith",
-          "tag": "v1.0.7",
-          "deploy": true
-        },
-        {
-          "name": "Quick Sort",
-          "short-name": "quick-sort",
-          "repo": "https://github.com/virtual-labs/exp-quick-sort-iiith",
-          "tag": "v1.0.8",
-          "deploy": true
-        }
-      ]
-    },
-    {
-      "sect-name": "Graphs",
-      "experiments": [
-        {
-          "name": "Depth First Search",
-          "short-name": "depth-first-search",
-          "repo": "https://github.com/virtual-labs/exp-dfs-iiith",
-          "tag": "v1.0.9",
-          "deploy": true
-        },
-        {
-          "name": "Breadth First Search",
-          "short-name": "breadth-first-search",
-          "repo": "https://github.com/virtual-labs/exp-bfs-iiith/",
-          "tag": "v1.0.7",
-          "deploy": true
-        }
-      ]
-    },
-    {
-      "sect-name": "Trees",
-      "experiments": [
-        {
-          "name": "Tree Traversal",
-          "short-name": "tree-traversal",
-          "repo": "https://github.com/virtual-labs/exp-tree-traversal-iiith/",
-          "tag": "v1.0.7",
-          "deploy": true
-        },
-        {
-          "name": "Binary Search Trees",
-          "short-name": "binary-search-trees",
-          "repo": "https://github.com/virtual-labs/exp-bst-iiith",
-          "tag": "v1.0.7",
-          "deploy": true
-        }
-      ]
-    },
-    {
-      "sect-name": "Searching",
-      "experiments": [
-        {
-          "name": "Unsorted Arrays",
-          "short-name": "unsorted-arrays",
-          "repo": "https://github.com/virtual-labs/exp-unsorted-arrays-iiith",
-          "tag": "v1.0.7",
-          "deploy": true
-        },
-        {
-          "name": "Hashtables",
-          "short-name": "hash-tables",
-          "repo": "https://github.com/virtual-labs/exp-hashtables-iiith",
-          "tag": "v1.0.7",
-          "deploy": true
-        }
-      ]
-    },
-    {
-      "sect-name": "Linked Lists",
-      "experiments": [
-        {
-          "name": "Linked lists",
-          "short-name": "linked-list",
-          "repo": "https://github.com/virtual-labs/exp-linked-lists-iiith",
-          "tag": "v1.0.7",
-          "deploy": true
-        },
-        {
-          "name": "Polynomial Arithmetic using linked lists",
-          "short-name": "poly-arithmetic",
-          "repo": "https://github.com/virtual-labs/exp-polynomial-arithmetic-iiith",
-          "tag": "v1.0.6",
-          "deploy": true
-        }
-      ]
-    }
-  ],
+  "lab": "Vibration Lab II",
+  "lab_display_name": "Vibration Lab II",
+  "phase": "3-ext",
+  "collegeName": "NITK",
+  "baseUrl": "vibration2-nitk.vlabs.ac.in",
+  "introduction": "The Vibration Lab II is designed to provide students with a quick, visual, and hands-on approach to understanding key concepts in mechanical vibrations. This modern virtual lab focuses on the analysis of two-degree-of-freedom (2-DOF) systems, covering a wide range of topics such as free and forced vibration analysis, impulse response, dynamic vibration absorbers, and torsional systems. Through experiments like the free and forced vibration of a motor on a foundation, the response of a forging hammer to impulse excitation, the behavior of automotive vehicles under static and dynamic coupling, and the dynamics of a compound pendulum, students gain practical insights into vibration phenomena. The lab supports undergraduate and postgraduate courses, research scholars, and design-based learning, making it an essential tool for integrating vibration analysis into mechanical system design and development.",
+  "experiments": [
+  {
+    "name": "Free Vibration Analysis of Two Degree of Freedom System",
+    "short-name": "free-vibration-analysis-two-degree-freedom-system",
+    "repo": "Experiment repository URL",
+    "tag": "v1.0.0",
+    "deploy": true
+  },
+  {
+    "name": "Impulse Response Analysis of Two Degree of Freedom System",
+    "short-name": "impulse-response-analysis-two-degree-freedom-system",
+    "repo": "Experiment repository URL",
+    "tag": "v1.0.0",
+    "deploy": true
+  },
+  {
+    "name": "Tuned Dynamic Vibration Absorber",
+    "short-name": "tuned-dynamic-vibration-absorber",
+    "repo": "Experiment repository URL",
+    "tag": "v1.0.0",
+    "deploy": true
+  },
+  {
+    "name": "Motor on a Foundation as a Two Degree of Freedom System - Free vibration",
+    "short-name": "motor-foundation-two-degree-freedom-system-free-vibration",
+    "repo": "Experiment repository URL",
+    "tag": "v1.0.0",
+    "deploy": true
+  },
+  {
+    "name": "Motor on a Foundation as a Two Degree of Freedom System-Forced vibration with rotating unbalance",
+    "short-name": "motor-foundation-two-degree-freedom-system-forced-vibration-rotating-unbalance",
+    "repo": "Experiment repository URL",
+    "tag": "v1.0.0",
+    "deploy": true
+  },
+  {
+    "name": "Forging hammer as a Two Degree of Freedom System - Free vibration",
+    "short-name": "forging-hammer-two-degree-freedom-system-free-vibration",
+    "repo": "Experiment repository URL",
+    "tag": "v1.0.0",
+    "deploy": true
+  },
+  {
+    "name": "Forging hammer as a Two Degree of Freedom System - Impulse excitation",
+    "short-name": "forging-hammer-two-degree-freedom-system-impulse-excitation",
+    "repo": "Experiment repository URL",
+    "tag": "v1.0.0",
+    "deploy": true
+  },
+  {
+    "name": "Automotive vehicle as a Two Degree of Freedom System - Static and Dynamics coupling",
+    "short-name": "automotive-vehicle-two-degree-freedom-system-static-dynamics-coupling",
+    "repo": "Experiment repository URL",
+    "tag": "v1.0.0",
+    "deploy": true
+  },
+  {
+    "name": "Torsional System of Two Degree of Freedom",
+    "short-name": "torsional-system-two-degree-freedom",
+    "repo": "Experiment repository URL",
+    "tag": "v1.0.0",
+    "deploy": true
+  },
+  {
+    "name": "Compound Pendulum",
+    "short-name": "compound-pendulum",
+    "repo": "Experiment repository URL",
+    "tag": "v1.0.0",
+    "deploy": true
+  }
+],
   "targetAudience": {
     "UG": [
-      " Data Structures & Algorithms for 1st & 2nd year B. Tech./ B.E in Computer Science & Information Technology <br/>- B.Sc / B.S in Computer Science "
+      "Mechanical Engineering, Automobile Engineering, Production Engineering - 3rd year / 4th year"
     ],
     "PG": [
-      "Computer Science, Information Technology, Compilers, Operating systems, Databases, AI and Software engineering. <br/> - Ph. D. Beginners"
+      "Industrial Engineering, Machine Design, Mechatronics"
     ]
   },
-  "objective": "The Virtual Lab for Data Structures will focus on creating an environment where the student interactively explores data structures. The role of this Virtual Labs is to complement the lectures and reading material and the programming lab in three ways : 1. Present visual animations of data structures 2. Allow students to interactively execute algorithms in these data structures. 3. Allow students to interactively compute the cost of using these data structures with different algorithms.",
+  "objective": "The intention of developing a Vibrational lab is to provide a quick, easy and visual process for students to start experimenting with and learn concepts of Vibrations. Vibration Laboratory is a modern facility for performing a wide range of experiments in the field of vibration. The goal of this lab is to demonstrate students how to do vibration analysis on mechanical components. The Lab supports undergraduate courses, postgraduate courses, research scholars, student projects and advanced experimental research. Students can use the Mechanical Vibrations Laboratory to include vibration analysis into the design, development, and optimization of products. This lab also provides resources for design projects involving dynamics, vibrations, and control principles and applications.",
   "courseAlignment": {
     "description": "The syllabi of this lab aligns to the following universities in India.",
     "universities": [
-      "Osmania University Data Structures Lab",
-      "JNTU Data Structures Lab"
+      "Machine Dynamics and Vibrations - National Institute of Technology Karnataka Surathkal. Karnataka, ME351, B.Tech.",
+      "Mechanical Vibrations and Acoustics - National Institute of Technology Karnataka Surathkal. Karnataka, ME420, B.Tech.",
+      "Dynamics of Machines - West Bengal University of Technology, ME 605,B.Tech.",
+      "Dynamics of Machines - Visvesvaraya Technological University Karnataka, 18ME53, B.E.",
+      "Vibrations and Noise Engineering - Visvesvaraya Technological University Karnataka, 18ME644, B.E.",
+      "Mechanical Vibrations - Vellore Institute of Technology, Vellore, MEE3008, B.tech."
     ]
 
- 
+  } 
 }
