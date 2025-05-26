@@ -13,71 +13,71 @@
   "experiments": [
   {
     "name": "Free Vibration Analysis of Two Degree of Freedom System",
-    "short-name": "free-vibration-analysis-two-degree-freedom-system",
-    "repo": "Experiment repository URL",
+    "short-name": "free-vibration-analysis-two-degree-freedom",
+    "repo": "https://github.com/virtual-labs/exp-free-vibration-analysis-nitk",
     "tag": "v1.0.0",
     "deploy": true
   },
   {
     "name": "Impulse Response Analysis of Two Degree of Freedom System",
-    "short-name": "impulse-response-analysis-two-degree-freedom-system",
-    "repo": "Experiment repository URL",
+    "short-name": "impulse-response-analysis-two-degree-freedom",
+    "repo": "https://github.com/virtual-labs/exp-impulse-response-analysis-nitk",
     "tag": "v1.0.0",
     "deploy": true
   },
   {
     "name": "Tuned Dynamic Vibration Absorber",
     "short-name": "tuned-dynamic-vibration-absorber",
-    "repo": "Experiment repository URL",
+    "repo": "https://github.com/virtual-labs/exp-tuned-dynamic-vibration-absorber-nitk",
     "tag": "v1.0.0",
     "deploy": true
   },
   {
     "name": "Motor on a Foundation as a Two Degree of Freedom System - Free vibration",
-    "short-name": "motor-foundation-two-degree-freedom-system-free-vibration",
-    "repo": "Experiment repository URL",
+    "short-name": "motor-foundation-two-degree",
+    "repo": "https://github.com/virtual-labs/exp-two-degree-freedom-system-nitk",
     "tag": "v1.0.0",
     "deploy": true
   },
   {
     "name": "Motor on a Foundation as a Two Degree of Freedom System-Forced vibration with rotating unbalance",
-    "short-name": "motor-foundation-two-degree-freedom-system-forced-vibration-rotating-unbalance",
-    "repo": "Experiment repository URL",
+    "short-name": "motor-foundation-two-degree-rotating-unbalance",
+    "repo": "https://github.com/virtual-labs/exp-freedom-system-forced-vibration-nitk",
     "tag": "v1.0.0",
     "deploy": true
   },
   {
     "name": "Forging hammer as a Two Degree of Freedom System - Free vibration",
-    "short-name": "forging-hammer-two-degree-freedom-system-free-vibration",
-    "repo": "Experiment repository URL",
+    "short-name": "forging-hammer-two-degree-freedom",
+    "repo": "https://github.com/virtual-labs/exp-forging-hammer-nitk",
     "tag": "v1.0.0",
     "deploy": true
   },
   {
     "name": "Forging hammer as a Two Degree of Freedom System - Impulse excitation",
-    "short-name": "forging-hammer-two-degree-freedom-system-impulse-excitation",
-    "repo": "Experiment repository URL",
+    "short-name": "forging-hammer-system-impulse-excitation",
+    "repo": "https://github.com/virtual-labs/exp-forging-hammer-impulse-excitation-nitk",
     "tag": "v1.0.0",
     "deploy": true
   },
   {
     "name": "Automotive vehicle as a Two Degree of Freedom System - Static and Dynamics coupling",
-    "short-name": "automotive-vehicle-two-degree-freedom-system-static-dynamics-coupling",
-    "repo": "Experiment repository URL",
+    "short-name": "automotive-vehicle-static-dynamics-coupling",
+    "repo": "https://github.com/virtual-labs/exp-static-dynamics-coupling-nitk",
     "tag": "v1.0.0",
     "deploy": true
   },
   {
     "name": "Torsional System of Two Degree of Freedom",
     "short-name": "torsional-system-two-degree-freedom",
-    "repo": "Experiment repository URL",
+    "repo": "Ehttps://github.com/virtual-labs/exp-torsional-system-nitk",
     "tag": "v1.0.0",
     "deploy": true
   },
   {
     "name": "Compound Pendulum",
     "short-name": "compound-pendulum",
-    "repo": "Experiment repository URL",
+    "repo": "https://github.com/virtual-labs/exp-compound-pendulum-nitk",
     "tag": "v1.0.0",
     "deploy": true
   }
