@@ -70,7 +70,7 @@
   {
     "name": "Torsional System of Two Degree of Freedom",
     "short-name": "torsional-system-two-degree-freedom",
-    "repo": "Ehttps://github.com/virtual-labs/exp-torsional-system-nitk",
+    "repo": "https://github.com/virtual-labs/exp-torsional-system-nitk",
     "tag": "v1.0.0",
     "deploy": true
   },
